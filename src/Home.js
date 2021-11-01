@@ -14,7 +14,4 @@ const Home = () => {
   );
 }
 
-// const { something }
-// the "&&" in curly brackets
-
 export default Home;

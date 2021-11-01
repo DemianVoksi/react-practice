@@ -7,10 +7,7 @@ const Create = () => {
   const [author, setAuthor] = useState('pigo');
   const [isPending, setIsPending] = useState(false);
   const history = useHistory();
-  // use state
-  // (e)
-  // history.push
-  // e.target.value
+
   const handleSubmit = (e) => {
     e.preventDefault();
     const blog = { title, body, author };

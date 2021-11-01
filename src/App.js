@@ -31,9 +31,4 @@ function App() {
   );
 }
 
-
-// route and switch
-// what is path="*"
-// what is path='blogs/:id'
-
 export default App;
